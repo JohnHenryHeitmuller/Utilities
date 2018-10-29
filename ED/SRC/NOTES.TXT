@@ -1,0 +1,19 @@
+TEdCtrlWindow
+   backGroundBrush
+TEdTextWindow
+   font
+   backGroundBrush
+   mode (text, hex, bin)
+TEdScrollBar
+   visible
+   docked (top, left, right, bottom, toolbar, statusbar)
+   type (standard / 2-button, 4-button, 6-button)
+
+   scroll ctrl ( horizontal/vertical )
+TEdToolBar
+   visible
+   docked (top, left, right, bottom)
+TEdStatusBar
+   visible
+   docked (top, bottom)
+

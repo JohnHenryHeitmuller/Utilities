@@ -1,0 +1,10 @@
+S:\Working\John\VS2005Projects\Projects - Tests\SameBoxChat\SameBoxChat\obj\Debug\ResolveAssemblyReference.cache
+S:\Working\John\VS2005Projects\Projects - Tests\SameBoxChat\SameBoxChat\obj\Debug\SameBoxChat.Resources.resources
+S:\Working\John\VS2005Projects\Projects - Tests\SameBoxChat\SameBoxChat\obj\Debug\SameBoxChat.vbproj.GenerateResource.Cache
+S:\Working\John\VS2005Projects\Projects - Tests\SameBoxChat\SameBoxChat\bin\Debug\SameBoxChat.exe
+S:\Working\John\VS2005Projects\Projects - Tests\SameBoxChat\SameBoxChat\bin\Debug\SameBoxChat.pdb
+S:\Working\John\VS2005Projects\Projects - Tests\SameBoxChat\SameBoxChat\bin\Debug\SameBoxChat.xml
+S:\Working\John\VS2005Projects\Projects - Tests\SameBoxChat\SameBoxChat\obj\Debug\SameBoxChat.exe
+S:\Working\John\VS2005Projects\Projects - Tests\SameBoxChat\SameBoxChat\obj\Debug\SameBoxChat.xml
+S:\Working\John\VS2005Projects\Projects - Tests\SameBoxChat\SameBoxChat\obj\Debug\SameBoxChat.pdb
+S:\Working\John\VS2005Projects\Projects - Tests\SameBoxChat\SameBoxChat\obj\Debug\SameBoxChat.SameBoxChat.resources

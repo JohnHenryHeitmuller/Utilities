@@ -1,0 +1,19 @@
+;------------------------------------------------
+;   Project ed
+;   
+;   Copyright © 1995. All Rights Reserved.
+;
+;   SUBSYSTEM:    ed.exe Module Defintion File
+;   FILE:         edapp.def
+;   AUTHOR:       John H. Heitmuller
+;
+;------------------------------------------------
+
+NAME ed
+
+DESCRIPTION 'ed Application - Copyright © 1995. All Rights Reserved.'
+EXETYPE     WINDOWS
+CODE        PRELOAD MOVEABLE DISCARDABLE
+DATA        PRELOAD MOVEABLE
+HEAPSIZE    4096
+STACKSIZE   8192
